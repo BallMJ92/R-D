@@ -1,2 +1,2 @@
 # R-D
-Research and development in programming languages
+Research and development into different programming paradigms
